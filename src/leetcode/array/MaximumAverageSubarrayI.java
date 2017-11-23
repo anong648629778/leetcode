@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.array;
 
 /**
  * 题目大意：求出连续k个数的最大平均数
